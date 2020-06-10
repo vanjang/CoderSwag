@@ -5,7 +5,7 @@ import com.cochipcho.coderswag.Model.Product
 
 object DataServices {
 
-    val category = listOf(
+    val categories = listOf(
         Category("SHIRTS", "shirtimage"),
         Category("HOODIES", "hoodieimage"),
         Category("HATS", "hatimage"),
